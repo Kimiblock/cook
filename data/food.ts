@@ -108,6 +108,10 @@ export const meat: StuffItem[] = [
     emoji: '🦴',
   },
   {
+    name: '鲜贝',
+    emoji: '💩',
+  },
+  {
     name: '鱼（Todo）',
     emoji: '🐟',
   },
